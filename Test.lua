@@ -1,1 +1,1 @@
-local a={["6403373529"] = "https://raw.githubusercontent.com/IIdentity/Pornide/main/Slap-Battles.lua"}if a[game.PlaceId]then loadstring(game:HttpGet(a[game.PlaceId]))()end
+local a={[6403373529] = "https://raw.githubusercontent.com/IIdentity/Pornide/main/Slap-Battles.lua",[10175705301] = "https://raw.githubusercontent.com/IIdentity/Pornide/main/Cant-Say-The-Word.lua"}if a[game.PlaceId]then loadstring(game:HttpGet(a[game.PlaceId]))()end
