@@ -3,12 +3,6 @@ function Load()
     loadstring(content)()
 end
 
-if isfile("PornideStarter.txt") then
-    return
-else
-    writefile("PornideStarter.txt", "visit nigger.identityhub.tk")
-end
-
 local PromptLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexR32/Roblox/main/PromptLibrary.lua"))()
 PromptLib("Question","Would You Like Copy The Discord Server Invite To Clipboard?",{
     {
